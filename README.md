@@ -1,4 +1,4 @@
 Foo
 ===
 
-Foo
+dummy repository
